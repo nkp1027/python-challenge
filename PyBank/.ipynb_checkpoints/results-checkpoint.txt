@@ -1,0 +1,1 @@
+Financial Analysis-------------------------------------------------Total Months: {months}Average Change: ${AverageChange}Greatest Increase in Profits: {MaximumMonth} (${MaximumIncrease})Geratest Decrease in Profits: {MinimumMonth} (${MaximumDecrease})
