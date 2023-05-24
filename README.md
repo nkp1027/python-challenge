@@ -1,2 +1,2 @@
-# python-homework
+# python-challenge
 Module 2 Challenge
